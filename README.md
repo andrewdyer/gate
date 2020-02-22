@@ -6,6 +6,7 @@
 [![Monthly Downloads](https://poser.pugx.org/andrewdyer/gate/d/monthly)](https://packagist.org/packages/andrewdyer/gate)
 [![Latest Unstable Version](https://poser.pugx.org/andrewdyer/gate/v/unstable)](https://packagist.org/packages/andrewdyer/gate)
 [![License](https://poser.pugx.org/andrewdyer/gate/license)](https://packagist.org/packages/andrewdyer/gate)
+[![composer.lock](https://poser.pugx.org/andrewdyer/gate/composerlock)](https://packagist.org/packages/andrewdyer/gate)
 
 Check if a user is authorized to perform a given action.
 
